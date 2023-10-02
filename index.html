@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="pokeball"></div>
+    <div id="loginForm" class="login-form">
+        <h2>Connexion</h2>
+        <label for="usernameInput">Nom d'utilisateur:</label>
+        <input type="text" id="usernameInput" required>
+        <label for="passwordInput">Mot de passe:</label>
+        <input type="password" id="passwordInput" required>
+        <button id="loginButton">Se connecter</button>
+    </div>
+
+    <div id="dashboard" class="dashboard" style="display: none;">
+        <div id="greetings"></div>
+        <div id="cardsContainer"></div>
+        <button id="logoutButton">Déconnexion</button>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

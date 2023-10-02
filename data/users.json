@@ -1,0 +1,19 @@
+[
+    {
+        "username": "gestion",
+        "password": "test1234*",
+        "type": "gestion"
+    },
+    {
+        "username": "client1",
+        "password": "password1",
+        "type": "client",
+        "cards": [1, 2]
+    },
+    {
+        "username": "client2",
+        "password": "password2",
+        "type": "client",
+        "cards": [3]
+    }
+]

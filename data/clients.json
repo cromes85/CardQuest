@@ -1,0 +1,12 @@
+[
+  {
+      "client_id": "12345",
+      "name": "John Doe",
+      "cards": [1, 2]
+  },
+  {
+      "client_id": "67890",
+      "name": "Jane Smith",
+      "cards": [3]
+  }
+]

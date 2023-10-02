@@ -1,0 +1,23 @@
+[
+  {
+      "id": 1,
+      "name": "Pikachu",
+      "image": "https://www.pokepedia.fr/images/thumb/b/bb/Carte_XY_42.png/245px-Carte_XY_42.png",
+      "value_at_purchase": 5,
+      "current_value": 10
+  },
+  {
+      "id": 2,
+      "name": "Bulbasaur",
+      "image": "https://www.pokepedia.fr/images/thumb/d/d0/Carte_Base_Set_2_67.png/245px-Carte_Base_Set_2_67.png",
+      "value_at_purchase": 3,
+      "current_value": 8
+  },
+  {
+      "id": 3,
+      "name": "Charizard",
+      "image": "https://www.pokepedia.fr/images/thumb/2/29/Carte_Base_Set_2_4.png/245px-Carte_Base_Set_2_4.png",
+      "value_at_purchase": 15,
+      "current_value": 20
+  }
+]
